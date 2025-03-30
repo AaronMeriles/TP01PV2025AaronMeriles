@@ -1,0 +1,46 @@
+
+
+.bandera-container{
+display: flex;
+gap: 20px;
+align-items: center;
+margin: 20px;
+justify-content: center;
+}
+.bandera{
+    text-align: center;
+}
+.bandera img{
+    width: 150px;
+    height: 120px;
+    border: 2px solid black;
+}
+
+nav{
+    text-align: center;
+    font-size: 25px;
+    background-color: aquamarine;
+    
+}
+
+.bloque{
+display: flex;
+
+}
+
+.bloque h3{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.bloque-p{
+
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.bloque img{
+    width: 200px;
+    height: 150px;
+}
